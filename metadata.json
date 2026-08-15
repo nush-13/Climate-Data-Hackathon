@@ -1,0 +1,6 @@
+{
+  "name": "Surya Sutra",
+  "description": "Spatial intelligence and energy balancing network planner for renewable energy investment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
